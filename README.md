@@ -9,7 +9,7 @@ For this assignment we were tasked to create a command line program that used no
 
 ## Installation
 * Clone repo onto your device
-* run 'node server.js'
+* run 'node server.js' in your terminal
 
 ## User story 
 As a business owner
